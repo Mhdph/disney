@@ -70,10 +70,10 @@ function Movie({ result }) {
                   Trailer
                 </span>
               </button>
-              <div class="rounded-fill border-2 border-white flex items-center justify-center w-11 h-11 cursor-pointer bg-black/60">
+              <div className="rounded-fill border-2 border-white flex items-center justify-center w-11 h-11 cursor-pointer bg-black/60">
                 <PlusIcon className="h-6" />
               </div>
-              <div class="rounded-fill border-2 border-white flex items-center justify-center w-11 h-11 cursor-pointer bg-black/60">
+              <div className="rounded-fill border-2 border-white flex items-center justify-center w-11 h-11 cursor-pointer bg-black/60">
                 <img src="/images/group-icon.svg"></img>
               </div>
             </div>
